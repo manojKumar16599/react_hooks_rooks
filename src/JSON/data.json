@@ -1,0 +1,16 @@
+{
+    "user_details": [
+      {
+        "id": 1,
+        "name": "kumar",
+        "age": 23,
+        "college": "PSR"
+      },
+      {
+        "id": 2,
+        "name": "Maheshwari",
+        "age": 36,
+        "college": "KLN"
+      }
+    ]
+  }

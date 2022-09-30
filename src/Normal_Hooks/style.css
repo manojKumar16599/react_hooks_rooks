@@ -1,0 +1,11 @@
+.normal_hooks_wrapper .theme_box {
+    width: 5rem;
+    height: 5rem;
+    border: 1px solid red;
+}
+.normal_hooks_wrapper .hooks {
+    margin: 0.5rem 2rem;
+    background-color: darkslateblue;
+    padding: 0 1rem;
+    width: 25rem;
+}
